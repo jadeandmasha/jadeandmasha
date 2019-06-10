@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative portfolio</title>
+    <title>Jade and Masha Creative Portfolio</title>
     <link>https://jadeandmasha.github.io/</link>
-    <description>Recent content on Creative portfolio</description>
+    <description>Recent content on Jade and Masha Creative Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     
 	<atom:link href="https://jadeandmasha.github.io/index.xml" rel="self" type="application/rss+xml" />
