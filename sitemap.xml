@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jadeandmasha.github.io/portfolio/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jadeandmasha.github.io/portfolio/lemon/</loc>
   </url>
   
@@ -22,18 +17,6 @@
   </url>
   
   <url>
-    <loc>https://jadeandmasha.github.io/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jadeandmasha.github.io/portfolio/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jadeandmasha.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -43,11 +26,17 @@
   </url>
   
   <url>
-    <loc>https://jadeandmasha.github.io/portfolio/go-for-this/</loc>
+    <loc>https://jadeandmasha.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jadeandmasha.github.io/portfolio/optrex-screen-eyes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jadeandmasha.github.io/portfolio/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -57,10 +46,6 @@
   
   <url>
     <loc>https://jadeandmasha.github.io/portfolio/water-org-more-than-a-toilet/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jadeandmasha.github.io/portfolio/a-different-style/</loc>
   </url>
   
 </urlset>
