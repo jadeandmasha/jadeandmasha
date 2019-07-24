@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jade and Masha</title>
-    <link>https://jadeandmasha.github.io/tags/</link>
+    <link>www.jadeandmasha.com/tags/</link>
     <description>Recent content in Tags on Jade and Masha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://jadeandmasha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.jadeandmasha.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
